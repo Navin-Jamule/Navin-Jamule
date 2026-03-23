@@ -6,8 +6,7 @@
 ###
 
 <p align="center">
-  I enjoy building end-to-end AI systems that go beyond experiments and work in real-world settings.
-  My focus is on NLP, transformers, and agentic AI, combined with FastAPI backends and React frontends.
+  I enjoy building end-to-end AI systems. My focus is on NLP, transformers,Fine Tuning LLMs and agentic AI
 </p>
 
 ###
