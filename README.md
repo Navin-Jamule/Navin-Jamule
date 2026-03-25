@@ -1,6 +1,6 @@
 <h2 align="center">
   Hey 👋, I’m Navin Jamule.<br>
-  Applied AI | NLP | LLMs | Full-Stack
+  Agentic AI | NLP | LLMs 
 </h2>
 
 ###
